@@ -44,6 +44,7 @@ __all__ = [
 
     # Misc
     "func",
+    "somethingelse",
 ]
 
 logger = logging.getLogger(__name__)
